@@ -2,10 +2,7 @@
   "name": "jate",
   "version": "1.0.0",
   "main": "server.js",
-  "engines": {
-    "node": "20.5.1",
-    "npm":  "9.8.0"
-  },
+
 
   
   "scripts": {
